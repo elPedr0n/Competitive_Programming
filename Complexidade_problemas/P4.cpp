@@ -32,15 +32,11 @@ void solve() {
         } 
     }
     
-    /*for (int i = 0; i < MAX; i++) {
-        if (v[i]) cout << i << ':' << v[i] << endl;
-    }*/
+    
     total = accumulate(v.begin(), v.end(), 0);
     if (tem_rep) total-=2;
     
     cout << total << endl;
-    
-    
     
 }
  
