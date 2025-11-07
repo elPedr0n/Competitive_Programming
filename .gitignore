@@ -4,6 +4,7 @@
 
 *.tmp
 *.log
+*.exe
 
 .vscode/
 .idea/
