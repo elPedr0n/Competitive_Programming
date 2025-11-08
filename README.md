@@ -13,3 +13,4 @@ Here lies my studies and codes for some contests in the world of competitive pro
 - Data structuures such as Queues, Lists, Trees and Graphs
 - Popular sorting and searching algorithms for arrays
 - Dynamic Programming
+- Greedy Algorithms
