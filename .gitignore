@@ -5,5 +5,8 @@
 *.tmp
 *.log
 *.exe
-
+*.txt
+*.out
+*.o
+*.obj
 .vscode/
