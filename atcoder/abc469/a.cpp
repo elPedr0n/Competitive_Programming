@@ -1,9 +1,19 @@
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+
+#include<iostream>
+#include<vector>
+#include <cmath>
 
 using namespace std;
 typedef long long ll;
 
 void solve() {
+
+    ll n, k;
+
+    cin >> n >> k;
+
+    cout << n +1- k << endl;
 
 }
 
